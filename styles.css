@@ -1,0 +1,132 @@
+body{
+  color:#40514E;
+  margin:0;
+  text-align: center;
+}
+h1{
+  margin:50px auto 32px auto ;
+  font-size:90px;
+  font-family: 'Merriweather', serif;
+  color:#66BFBF;
+
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+}
+h3{
+  color:#11999E;
+  font-family:'Merriweather', serif;
+}
+
+.profile{
+  width:50%;
+  margin:100px auto 100px auto;
+}
+
+
+.prfl{
+  width:200px;
+  height:200px;
+  border: solid 1px #CCC;
+  border-radius:50%;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 3;
+}
+.code-img{
+width:25%;
+float:right;
+margin-left:30px;
+}
+.web-img{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.Communication
+{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.top-container{
+  background-color:#C8E3D4 ;
+  position:relative;
+  padding-top:100px;
+
+}
+.top-cloud{
+  position:absolute;
+  top:40px;
+  right:300px;
+
+}
+
+.bottom-cloud{
+  position:absolute;
+  bottom:300px;
+  left:250px;
+}
+
+span{
+  text-decoration: underline;
+}
+hr{
+  border:dotted #D3E4CD 6px;
+  border-top: none;
+  width:4%;
+  margin:100px auto;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  margin:30px 0px auto;
+  padding:50px 0 20px;
+}
+a{
+  color:#0061A8;
+  text-decoration:none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.botmcls{
+  color:#345B63;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding: 20px 0px;
+}
